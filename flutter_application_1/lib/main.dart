@@ -40,7 +40,6 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  
   var questionIndex = 0;
 
   static const List<QuestionAnswer> questionsAndAnswers = [
